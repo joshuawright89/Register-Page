@@ -1,0 +1,35 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#044b10;  
+    font-family: 'Arial';  
+}  
+
+.login{  
+    width: 200px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 80px;  
+    background: whitesmoke;  
+    border-radius: 15px ;
+    text-align: left;
+}
+
+.top{
+    background-color: gainsboro;
+    text-align: right;
+    border:2px solid gray;
+    margin: 0px 50px 50px 50px;
+    padding: 20px 20px 20px 40px;
+}
+
+button{
+    background-color: rgba(46, 12, 102, 0.767);
+    color: white;
+}
+
+form button{
+    width: fit-content;
+}
